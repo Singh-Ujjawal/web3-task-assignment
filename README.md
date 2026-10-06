@@ -2,7 +2,7 @@
 
 Watch YouTube videos together in real time. Create a room, share the code or link, and everyone sees the same play/pause state, seek position and video.
 
-**Live demo:** `<add your deployed URL here>`
+**Live demo:** `https://web3-task-assignment.onrender.com/`
 
 ## Stack
 
